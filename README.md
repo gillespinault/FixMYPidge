@@ -2,6 +2,9 @@
 
 **Application PWA citoyenne pour signaler et soigner les pigeons urbains en détresse.**
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8fbcc230-4d83-414f-9929-d979f01b978c" />
+
+
 [![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-Backend-green)](https://supabase.com/)
