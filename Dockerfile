@@ -18,6 +18,9 @@ COPY . .
 # Next.js collects completely anonymous telemetry data about general usage.
 ENV NEXT_TELEMETRY_DISABLED 1
 
+# Copy build env file for build process
+COPY .env.build .env.local
+
 RUN npm run build
 
 # Production image, copy all the files and run next
